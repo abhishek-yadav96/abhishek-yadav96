@@ -30,20 +30,20 @@ Hi there! 👋 I'm **Abhishek**, a passionate **Senior Flutter Developer** with 
 ## 📈 **Career Experience**
 
 ### **Senior Flutter Developer**  
-**OTUSONE LLP** | *Jan 2021 - Present*
+**OTUSONE LLP** | *August 2023 - Present*
 - Leading development teams to build **cross-platform mobile apps** using **Flutter**.
 - Architected **real-time features** like **Push Notifications**, **Payment Gateways**, and **Google Maps API**.
 - Integrating **Firebase**, **Crashlytics**, and **Google Analytics** to optimize app performance and monitor user engagement.
 - **Mentoring junior developers** and ensuring the team follows industry best practices.
 
 ### **Android Application Developer**  
-**Kutumbh HRCare** | *June 2019 - Dec 2020*
+**Kutumbh HRCare** | *March 2022 - March 2023*
 - Designed and developed native Android apps with **Kotlin** & **Java**.
 - Worked on **SQLite** for data management and **Retrofit** for networking.
 - Integrated **Push Notifications** and real-time features to enhance user experience.
 
 ### **Android Application Developer**  
-**ZEWAY Mobility** | *Jan 2018 - May 2019*
+**ZEWAY Mobility** | *March 2023 - August 2023*
 - Developed real-time tracking apps for **mobility solutions** using **Google Maps API**.
 - Implemented **location-based services** and **Google Places API** for user navigation.
 
