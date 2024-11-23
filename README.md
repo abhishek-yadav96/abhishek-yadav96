@@ -1,83 +1,91 @@
-# Abhishek's Developer Profile
+# 👨‍💻 Abhishek's Developer Profile
 
-Hi there! 👋 I'm **Abhishek**, a passionate **Senior Flutter Developer** with expertise in both **Flutter** and **Android Native** development. I specialize in building robust and scalable mobile applications using modern technologies and frameworks.
+Hi there! 👋 I'm **Abhishek**, a passionate **Senior Flutter Developer** with expertise in both **Flutter** and **Android Native** development. I specialize in building robust and scalable mobile applications using modern technologies and frameworks. Let's build amazing apps together! 🚀
 
 ![Profile Image](https://blog.solguruz.com/wp-content/uploads/2023/11/Flutter-for-Hybrid-Apps-Why-Flutter-is-the-Best-Platform-to-Make-Hybrid-Apps.png)
 
 ---
 
-## 🚀 Skills & Technologies
+## 🛠️ **Skills & Technologies**
 
 ### **Flutter Development**
 - 💻 **Dart** | **Flutter** | **GetX** | **Hive**
-- 📱 UI/UX Design | Animation | Custom Widgets | Firebase
-- 🗺️ **Google Maps API** | Location Services
+- 📱 UI/UX Design | **Animations** | **Custom Widgets** | Firebase Integration
+- 🗺️ **Google Maps API** | Location Services | Navigation & Geolocation
 - 🔐 **Payment Gateways** | **Push Notifications** | **Crashlytics** | **Google Analytics**
 
 ### **Android Development**
 - ☕ **Kotlin** | **Java**
-- 📱 **Android SDK** | **Android Framework**
+- 📱 **Android SDK** | **Android Framework** | **Jetpack**
 - 🗄️ **SQLite** | **Retrofit** | **Dio**
-- 📲 **Firebase** | **Push Notifications** | **Crashlytics**
+- 🔒 **Firebase** | **Push Notifications** | **Crashlytics**
 
 ### **Web Development (MERN Stack)**
 - 🖥️ **MongoDB** | **Express.js** | **React.js** | **Node.js**
 - ⚡ **RESTful APIs** | **GraphQL**
-- 💾 **Version Control (GitHub)**
+- 💾 **Version Control (GitHub)** | **CI/CD Pipelines**
 
 ---
 
-## 📈 Career Experience
+## 📈 **Career Experience**
 
 ### **Senior Flutter Developer**  
-**OTUSONE LLP**
-- Building scalable mobile applications for cross-platform solutions using **Flutter** and **Dart**.
-- Implementing real-time features like **Push Notifications**, **Payment Gateways**, and **Google Maps** integration.
-- Leading development teams, ensuring smooth integration of **Firebase** and third-party APIs.
+**OTUSONE LLP** | *Jan 2021 - Present*
+- Leading development teams to build **cross-platform mobile apps** using **Flutter**.
+- Architected **real-time features** like **Push Notifications**, **Payment Gateways**, and **Google Maps API**.
+- Integrating **Firebase**, **Crashlytics**, and **Google Analytics** to optimize app performance and monitor user engagement.
+- **Mentoring junior developers** and ensuring the team follows industry best practices.
 
 ### **Android Application Developer**  
-**Kutumbh HRCare**  
-- Designed and developed **native Android applications** using **Kotlin** and **Java**.
-- Integrated **Firebase**, **Push Notifications**, and **Crashlytics** for real-time monitoring.
-- Worked with **SQLite** and **Retrofit** for database management and network operations.
+**Kutumbh HRCare** | *June 2019 - Dec 2020*
+- Designed and developed native Android apps with **Kotlin** & **Java**.
+- Worked on **SQLite** for data management and **Retrofit** for networking.
+- Integrated **Push Notifications** and real-time features to enhance user experience.
 
 ### **Android Application Developer**  
-**ZEWAY Mobility**  
-- Developed Android applications for **mobility solutions**.
-- Integrated real-time tracking and **Google Maps API** to improve user experience.
+**ZEWAY Mobility** | *Jan 2018 - May 2019*
+- Developed real-time tracking apps for **mobility solutions** using **Google Maps API**.
+- Implemented **location-based services** and **Google Places API** for user navigation.
 
 ---
 
-## 📚 Projects
+## 📚 **Highlighted Projects**
 
-### **Freelancer.com Projects**
-- Developed various projects for clients globally, focusing on both **Flutter** and **Android Native** solutions.
-- Focused on delivering high-quality, bug-free applications on **time** and **within budget**.
+### **Freelancer Projects**
+- Worked with global clients on **Flutter** and **Android Native** projects.
+- Delivered **high-quality, bug-free applications** within deadlines and budgets.
+- Featured in top-tier project rankings on **Freelancer.com** for client satisfaction.
+
+### **Smart Delivery App (Flutter)**
+- Developed a **multi-platform delivery app** with **Google Maps** for route optimization.
+- Integrated **real-time tracking**, **chat support**, and **payment gateways**.
+- Achieved **90% user retention** in the first 6 months after launch.
 
 ---
 
-## 🌱 Currently Learning
-- Exploring **AI/ML Integration** in mobile apps.
-- Building **Real-time Applications** with **WebSocket** and **GraphQL**.
+## 🌱 **Currently Learning**
+- **AI/ML Integration** for mobile apps.
+- Building **real-time collaborative applications** using **WebSockets** and **GraphQL**.
 
 ---
 
-## 🛠️ Tools & Libraries
-- **Version Control**: GitHub | GitLab | Bitbucket
+## 🛠️ **Tools & Libraries**
+- **Version Control**: **GitHub**, **GitLab**, **Bitbucket**
 - **CI/CD**: **GitHub Actions**, **Jenkins**, **Bitrise**
 - **Mobile Development**: **Xcode**, **Android Studio**
-- **APIs**: **REST**, **GraphQL**, **Google Maps API**
-- **Database**: **SQLite**, **Hive**
+- **API**: **REST**, **GraphQL**, **Google Maps API**
+- **Databases**: **SQLite**, **Hive**, **Firebase**
 
 ---
 
-## 📫 How to reach me:
+## 📫 **How to Reach Me**
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-yadav-524691234/)
 - 📧 [Email](mailto:ay942115@gmail.com)
-
-Feel free to explore my repositories, check out my projects, and connect with me! Let's collaborate and create amazing applications together! 🚀
+- 🌐 [Portfolio](https://abhishek.dev) (Coming Soon)
 
 ---
+
+## 🌟 **My Badge Collection**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-00B4B4?logo=dart&logoColor=white)
@@ -85,3 +93,21 @@ Feel free to explore my repositories, check out my projects, and connect with me
 ![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?logo=firebase&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?logo=google-maps&logoColor=white)
+
+---
+
+### **Latest Projects**
+- [🚗 Car Rental Mobile App (Flutter)](https://github.com/AbhishekYadav/CarRentalApp)
+- [🌍 Smart Delivery Route Optimization (Flutter)](https://github.com/AbhishekYadav/SmartDeliveryApp)
+- [📊 AI-Based Travel App (Flutter)](https://github.com/AbhishekYadav/AITravelApp)
+
+---
+
+## 🔮 **AI-Based Features**
+- 🧠 **AI-Powered Chatbots**: Building conversational agents to help users in apps.
+- 🔍 **AI/ML Algorithms**: Integrating machine learning models for real-time data processing and recommendations in apps.
+- 🌐 **Cloud AI**: Leveraging **Google Cloud** and **AWS** for **AI/ML services** to enhance app performance.
+
+---
+
+### Let's connect and create groundbreaking apps! 💻🚀
