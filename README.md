@@ -1,6 +1,6 @@
 #💫 About Me: Abhishek Yadav
 
-Hi there! 👋 I'm **Abhishek**, a passionate **Senior Flutter Developer** with expertise in both **Flutter** and **Android Native** development. I specialize in building robust and scalable mobile applications using modern technologies and frameworks. Let's build amazing apps together! 🚀
+Hi there! 👋 I'm **Abhishek**, a passionate **Senior Flutter Developer full stack android developer ** with expertise in both **Flutter** and **Android Native** development. I specialize in building robust and scalable mobile applications using modern technologies and frameworks. Let's build amazing apps together! 🚀
 
 ![Profile Image](https://blog.solguruz.com/wp-content/uploads/2023/11/Flutter-for-Hybrid-Apps-Why-Flutter-is-the-Best-Platform-to-Make-Hybrid-Apps.png)
 
